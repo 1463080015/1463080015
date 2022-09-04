@@ -1,8 +1,5 @@
-- 👋 你好，我是泊云
-- 👀 是一名普通大学生 
-- 🌱 我将要学算法
-- 💞️ 新手
-- 📫 用户名即qq
+#我是泊云
+这是分支
 
 <!---
 1463080015/1463080015 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
